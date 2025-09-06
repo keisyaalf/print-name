@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+int main() {
+    // Write C code here
+    printf("My name is Keisya Alifa\n");
+    printf("My favorite programming language is Python");
+
+    return 0;
+}
